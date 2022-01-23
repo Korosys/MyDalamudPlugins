@@ -1,23 +1,25 @@
 [
     {
-        "Author": "daemitus",
-        "Name": "Yes Already Mod",
-        "Punchline": "Clicks Yes in various dialogs you've specified.",
-        "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
-        "InternalName": "YesAlready",
-        "AssemblyVersion": "1.1.0.4",
-        "RepoUrl": "https://github.com/daemitus/YesAlready",
+        "Author": "attick, Kami, Daemitus, Grammernatzi, Aki, Iaotle, Codemned, PrincessRTFM",
+        "Name": "XIVSlothCombo",
+        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
+        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
+        "InternalName": "XIVSlothCombo",
+        "AssemblyVersion": "2.0.9.8",
+        "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 4,
-        "IconUrl": "https://github.com/daemitus/YesAlready/raw/master/res/icon.png",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
-        "IsHide": true,
+        "DalamudApiLevel": 5,
+        "IconUrl": "https://cdn.discordapp.com/attachments/594230324209123330/905362481671720970/akified.png",
+        "ImageUrls": [
+            "https://cdn.discordapp.com/attachments/594230324209123330/905362481671720970/akified.png"
+        ],
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVSlothCombo/latest.zip",
+        "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
+        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVSlothCombo/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVSlothCombo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1633787742"
+        "LastUpdated": "1642930341"
     },
     {
         "Author": "attick, daemitus",
@@ -29,15 +31,14 @@
         "RepoUrl": "https://github.com/Korosys/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 5,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/Korosys/XIVComboPlugin/master/res/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/daemitus/XIVComboPlugin/master/res/icon.png",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1642716713"
+        "LastUpdated": "1642930341"
     }
 ]
