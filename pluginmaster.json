@@ -30,7 +30,7 @@
         "ApplicableVersion": "any",
         "DalamudApiLevel": 5,
         "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/daemitus/XIVComboPlugin/master/res/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/Korosys/XIVComboPlugin/master/res/icon.png",
         "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "IsHide": false,
