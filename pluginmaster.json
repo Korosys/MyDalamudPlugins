@@ -19,7 +19,27 @@
         "DownloadLinkTesting": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/XIVSlothCombo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/XIVSlothCombo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1643440809"
+        "LastUpdated": "1643443237"
+    },
+    {
+        "Author": "attick, daemitus",
+        "Name": "XIV Combo Expanded MOD",
+        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
+        "Description": "This plugin condenses combos to an insane degree.",
+        "InternalName": "XIVComboMod",
+        "AssemblyVersion": "1.3.2.13",
+        "RepoUrl": "https://github.com/Korosys/XIVComboMod",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 5,
+        "IconUrl": "https://raw.githubusercontent.com/Korosys/XIVComboMod/master/res/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/XIVComboMod/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/XIVComboMod/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/XIVComboMod/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1643443237"
     },
     {
         "Author": "attick, daemitus",
@@ -39,6 +59,6 @@
         "DownloadLinkTesting": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1643440809"
+        "LastUpdated": "1643443237"
     }
 ]
