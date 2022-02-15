@@ -19,7 +19,7 @@
         "DownloadLinkTesting": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/XIVSlothCombo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/XIVSlothCombo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1644452915"
+        "LastUpdated": "1644901054"
     },
     {
         "Author": "attick, daemitus",
@@ -27,7 +27,7 @@
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
         "Description": "This plugin condenses combos to an insane degree.",
         "InternalName": "XIVComboMod",
-        "AssemblyVersion": "1.3.2.19",
+        "AssemblyVersion": "1.3.2.21",
         "RepoUrl": "https://github.com/Korosys/XIVComboMod",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 5,
@@ -39,6 +39,6 @@
         "DownloadLinkTesting": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/XIVComboMod/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/XIVComboMod/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1644452915"
+        "LastUpdated": "1644901054"
     }
 ]
