@@ -1,27 +1,5 @@
 [
     {
-        "Author": "attick, Kami, Daemitus, Grammernatzi, Aki, Iaotle, Codemned, PrincessRTFM",
-        "Name": "XIVSlothCombo",
-        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
-        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
-        "InternalName": "XIVSlothCombo",
-        "AssemblyVersion": "2.0.9.8",
-        "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 5,
-        "IconUrl": "https://cdn.discordapp.com/attachments/594230324209123330/905362481671720970/akified.png",
-        "ImageUrls": [
-            "https://cdn.discordapp.com/attachments/594230324209123330/905362481671720970/akified.png"
-        ],
-        "DownloadLinkInstall": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/XIVSlothCombo/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/XIVSlothCombo/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/XIVSlothCombo/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1645137980"
-    },
-    {
         "Author": "attick, daemitus",
         "Name": "XIV Combo Expanded MOD",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
@@ -39,6 +17,6 @@
         "DownloadLinkTesting": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/XIVComboMod/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/XIVComboMod/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1645137980"
+        "LastUpdated": "1645148982"
     }
 ]
