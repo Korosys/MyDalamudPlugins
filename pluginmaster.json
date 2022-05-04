@@ -1,25 +1,5 @@
 [
     {
-        "Author": "attick, daemitus",
-        "Name": "XIV Combo Expanded MOD",
-        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
-        "Description": "This plugin condenses combos to an insane degree.",
-        "InternalName": "XIVComboMod",
-        "AssemblyVersion": "1.3.2.22",
-        "RepoUrl": "https://github.com/Korosys/XIVComboMod",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 5,
-        "IconUrl": "https://raw.githubusercontent.com/Korosys/XIVComboMod/master/res/icon.png",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/XIVComboMod/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/XIVComboMod/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/XIVComboMod/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1651639140"
-    },
-    {
         "Author": "Fr4nnson, Korosys",
         "Name": "Potato Famine",
         "Punchline": "No more lalas.",
@@ -39,6 +19,6 @@
         "DownloadLinkTesting": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/PotatoFamine/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/PotatoFamine/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1651639140"
+        "LastUpdated": "1651639186"
     }
 ]
