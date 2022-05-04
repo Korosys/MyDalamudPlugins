@@ -25,7 +25,7 @@
   "DownloadLinkTesting": null,
   "LoadPriority": 0,
   "ImageUrls": [],
-  "IconUrl": "https://raw.githubusercontent.com/Korosys/MyDalamudPlugins/plugins/PotatoFamine/icon.png",
+  "IconUrl": "https://raw.githubusercontent.com/Korosys/MyDalamudPlugins/master/plugins/PotatoFamine/icon.png",
   "AcceptsFeedback": true,
   "FeedbackMessage": null,
   "FeedbackWebhook": null
