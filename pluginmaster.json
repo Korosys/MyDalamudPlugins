@@ -6,11 +6,11 @@
         "Description": "changes lalas into another race",
         "Changelog": null,
         "InternalName": "PotatoFamine",
-        "AssemblyVersion": "1.3.0.1",
+        "AssemblyVersion": "1.3.0.2",
         "RepoUrl": "https://github.com/Korosys/PotatoFamine",
         "ApplicableVersion": "any",
         "Tags": null,
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 7,
         "IconUrl": "https://raw.githubusercontent.com/Korosys/MyDalamudPlugins/master/plugins/PotatoFamine/icon.png",
         "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/PotatoFamine/latest.zip",
@@ -19,6 +19,6 @@
         "DownloadLinkTesting": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/PotatoFamine/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/PotatoFamine/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1653257346"
+        "LastUpdated": "1662763997"
     }
 ]
