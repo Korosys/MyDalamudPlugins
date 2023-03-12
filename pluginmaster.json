@@ -7,11 +7,11 @@
         "Changelog": null,
         "InternalName": "PotatoFamine",
         "AssemblyVersion": "1.3.0.3",
-        "RepoUrl": "https://github.com/Korosys/PotatoFamine",
+        "RepoUrl": "https://github.com/Korosys/potato",
         "ApplicableVersion": "any",
         "Tags": null,
         "DalamudApiLevel": 8,
-        "IconUrl": "https://raw.githubusercontent.com/Korosys/MyDalamudPlugins/master/plugins/PotatoFamine/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/Korosys/XIVComboMod/master/res/icon.png",
         "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/PotatoFamine/latest.zip",
         "IsHide": false,
@@ -19,6 +19,6 @@
         "DownloadLinkTesting": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/PotatoFamine/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/PotatoFamine/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1678580751"
+        "LastUpdated": "1678581030"
     }
 ]
