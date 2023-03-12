@@ -10,7 +10,7 @@
         "RepoUrl": "https://github.com/Korosys/PotatoFamine",
         "ApplicableVersion": "any",
         "Tags": null,
-        "DalamudApiLevel": 7,
+        "DalamudApiLevel": 8,
         "IconUrl": "https://raw.githubusercontent.com/Korosys/MyDalamudPlugins/master/plugins/PotatoFamine/icon.png",
         "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/Korosys/MyDalamudPlugins/raw/master/plugins/PotatoFamine/latest.zip",
